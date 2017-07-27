@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/OldGhost366/HJPodTestLibB'
+  s.homepage         = 'https://github.com/OldGhost366/HJSpecs'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'OldGhost366' => 'huj@getui.com' }
